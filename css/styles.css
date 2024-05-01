@@ -310,7 +310,9 @@ header .container {
 }
 
 .portfolio-list-item {
-    
+    border: 1px solid #e7e9fc;
+    max-width: 360px;
+    overflow: hidden;
 }
 
 .footer {

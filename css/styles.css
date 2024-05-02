@@ -119,6 +119,7 @@ header .container {
     line-height: 1.5;
     color: #2E2F42;
     letter-spacing: 0.02em;
+    padding: 24px 0;
 }
 
 .nav-link:hover, .nav-link:focus  {

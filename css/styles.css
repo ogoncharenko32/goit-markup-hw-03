@@ -38,8 +38,7 @@ img {
     max-width: 1158px;
     padding-left:15px;
     padding-right:15px;
-    margin-left: 141px;
-    margin-right: 141px;
+    margin: 0 auto;
 }
 
 .section {
@@ -170,6 +169,8 @@ header .container {
     text-align: center;
     color: #fff;
     max-width: 496px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .button {
@@ -250,8 +251,7 @@ header .container {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    margin-bottom: 32px;
-    margin-left: 16px;
+
 }
 
 .team-text {
@@ -327,8 +327,6 @@ header .container {
 }
 
 .portfolio-list-item {
-    border: 1px solid #e7e9fc;
-    max-width: 360px;
     overflow: hidden;
 }
 
@@ -343,7 +341,7 @@ header .container {
     letter-spacing: 0.02em;
     color: #f4f4fd;
     background-color: #2e2f42;
-    margin-top: 15px;
+
     width: 264px;
 }
 
